@@ -35,6 +35,17 @@ Spark Definitive Guide(Spark权威指南中文版)，本书由Spark框架的创�
 [![Documentation Status](https://readthedocs.org/projects/bert-pytorch/badge/?version=latest)](https://bert-pytorch.readthedocs.io/en/latest/?badge=latest)
 
 
+PS. 大家如果觉得翻译的质量不错，翻译内容对大家的Spark学习有所帮助的话，也可以小小的支持一下我们~我们会以更快的速度带来后续的翻译章节
+
+
+<div align=center><img width="300" height="300" src="https://img-blog.csdnimg.cn/20190221155609471.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NTIxNTU0,size_16,color_FFFFFF,t_70"/></div>
+
+
+<br>
+
+
+
+
 Environment require:  
                ---`Windows-pdf `  
                ---`Spark`   
