@@ -21,7 +21,7 @@ Copyright (c) 2018 Alexander Rush : The Annotated Trasnformer
 
 <br>
 
-Spark Definitive Guide(Spark权威指南中文版)，本书由Spark框架的创始人编写，学习Spark框架必读书籍，网上都是英文版本。译者目前翻译到8章，8-12章翻译进行中，先分享出来，剩下的章节会继续翻译
+Spark Definitive Guide(Spark权威指南中文版)，本书由Spark框架的创始人编写，学习Spark框架必读书籍，网上都是英文版本。译者目前翻译到8章，8-12章翻译进行中，先分享出来，剩下章节会继续翻译
 
 
 
